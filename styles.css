@@ -15,7 +15,7 @@ body {
     height: 100vh; /* Занимает весь экран */
     background-image: url('background.jpg'); /* Ваш фон */
     background-size: cover;
-    background-position: center bottom;
+    background-position: center 30%;
     display: flex;
     justify-content: center;
     align-items: center;
